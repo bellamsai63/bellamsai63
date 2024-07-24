@@ -1,43 +1,27 @@
-Hi there! 👋
-I'm Bellam Sai, a passionate and driven Full Stack Java Developer from Tirupati. With a solid educational background and hands-on experience in software development, I'm always eager to learn and grow in the tech industry.
+<h1 align="center">Hi 👋, I'm Sai Bellam</h1>
+<h3 align="center">A passionate java full stack developer from India</h3>
 
-🎓 Education
-B.Tech in Engineering and Technology
-Audisankara College of Engineering and Technology
-CGPA: 7.5 (Graduated in 2023)
+- 🔭 I’m currently working on [Portfolio website](https://bellamsai63.github.io/Portfolio/)
 
-Intermediate Education
-Sri Krishnachaithanya Intermediate College
-CGPA: 9.67 (Graduated in 2019)
+- 🌱 I’m currently learning **ReactJs and NodeJs.**
 
-Secondary Education
-V.S.R E.M High School
-GPA: 8.2 (Graduated in 2017)
+- 👨‍💻 All of my projects are available at [https://bellamsai63.github.io/Portfolio/](https://bellamsai63.github.io/Portfolio/)
 
-💻 Professional Training
-Full Stack Java Development Training
-Social Prachar Institute
-Completed an extensive training program that covered various aspects of Java development, both front-end and back-end.
-🏢 Professional Experience
-Internship
-Post-training, I had the opportunity to work as an intern, where I applied my skills in real-world projects, gaining valuable industry experience.
-🏆 Achievements
-Chess Competitions
-Selected to play chess at the zonal and district levels, showcasing my strategic thinking and problem-solving skills.
-🚀 Skills
-Languages: Java, HTML, CSS, JavaScript
-Frameworks & Libraries: Spring, Hibernate, React
-Databases: MySQL, MongoDB
-Tools: Git, Maven, Jenkins
-📈 JEE Mains
-Scored an impressive 85% in JEE Mains, demonstrating my strong analytical and problem-solving abilities.
-🌱 Personal Interests
-Chess: Avid chess player who enjoys the strategic and intellectual challenge of the game.
-📫 Contact
-Feel free to reach out to me via email or connect with me on LinkedIn.
+- 📝 I regularly write articles on [https://github.com/bellamsai63](https://github.com/bellamsai63)
 
-<!---
-bellamsai63/bellamsai63 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💬 Ask me about **C, C++, HTML, CSS, Bootstrap, JavaScript, Java, Python, MySQL, JDBC, Spring, Hibernate, Spring MVC and SpringBoot.**
 
+- 📫 How to reach me **saibellam63@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1iZOlAHI0P-7nLN3R2kRQoOpdgKpYcc48/view?usp=sharing](https://drive.google.com/file/d/1iZOlAHI0P-7nLN3R2kRQoOpdgKpYcc48/view?usp=sharing)
+
+- ⚡ Fun fact **Crazy on coding🥰**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sai bellam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai bellam" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/bellam sai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bellam sai" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
